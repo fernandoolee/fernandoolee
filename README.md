@@ -15,7 +15,7 @@
 | Project | What it is |
 |---|---|
 | [churn-prediction-xai-digital-wallet](https://github.com/fernandoolee/churn-prediction-xai-digital-wallet) | XGBoost + Optuna + SHAP pipeline behind my IEEE paper |
-| [fintech-churn-risk-app](https://github.com/fernandoolee/fintech-churn-risk-app) | Streamlit app: upload a CSV of new users and get churn-risk tiers |
+| [fintech-churn-risk-app](https://github.com/fernandoolee/fintech-churn-risk-app) | Streamlit app: upload a CSV of new users and get churn-risk tiers · [live demo](https://churn-prediction-xai-digital-wallet.streamlit.app/) |
 | [Portfolio website](https://fernandoolee.github.io/Portofolio-Fernando-Lee/) | My personal portfolio ([source](https://github.com/fernandoolee/Portofolio-Fernando-Lee)) |
 
 #### 📫 Contact
