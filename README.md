@@ -3,6 +3,7 @@
 **Data Analyst** · Sales analytics, CRM analytics & explainable machine learning · Tangerang, Indonesia
 
 - 📊 **Sales Data Analyst at Artha Boga**: automating daily and monthly sales reporting with Python & VBScript
+- 🏪 Built a store-level purchase forecast (LightGBM + SHAP) used by sales PICs every month
 - 💳 Former **Data Analyst Intern at AstraPay (CRM)**: journey automation, funnel & cohort analysis, churn modelling
 - 📄 **IEEE author**: [*Predicting New User Uninstallation in Digital Wallet Applications with Explainable AI*](https://ieeexplore.ieee.org/document/11698998) (ICIMTech 2026)
 - 🎓 Information Systems @ BINUS University
@@ -14,8 +15,8 @@
 | Project | What it is |
 |---|---|
 | [churn-prediction-xai-digital-wallet](https://github.com/fernandoolee/churn-prediction-xai-digital-wallet) | XGBoost + Optuna + SHAP pipeline behind my IEEE paper |
-| [Project-Predictive](https://github.com/fernandoolee/Project-Predictive) | Streamlit app: upload a CSV and get churn-risk scores · [live demo](https://project-predictive-segmentation-fernandolee.streamlit.app/) |
-| [Portfolio website](https://github.com/fernandoolee/Portofolio-Fernando-Lee) | My personal portfolio |
+| [fintech-churn-risk-app](https://github.com/fernandoolee/fintech-churn-risk-app) | Streamlit app: upload a CSV of new users and get churn-risk tiers |
+| [Portfolio website](https://fernandoolee.github.io/Portofolio-Fernando-Lee/) | My personal portfolio ([source](https://github.com/fernandoolee/Portofolio-Fernando-Lee)) |
 
 #### 📫 Contact
-fernandoolee28@gmail.com
+[LinkedIn](https://www.linkedin.com/in/fernando-lee-67835032a) · [Portfolio](https://fernandoolee.github.io/Portofolio-Fernando-Lee/) · fernandoolee28@gmail.com
